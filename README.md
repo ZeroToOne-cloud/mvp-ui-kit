@@ -1,3 +1,4 @@
+![ZeroToOne Banner](./banner.png)
 # ZeroToOne MVP UI Kit
 
 A curated set of React libraries for launching beautiful MVPs fast.
