@@ -1,0 +1,15 @@
+{
+  "name": "zero-to-one-mvp-ui-kit",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "react-mvp-starter-ui",
+    "react-onboarding-wizard",
+    "react-pdf-preview"
+  ],
+  "scripts": {
+    "build": "yarn workspaces run build",
+    "storybook": "yarn workspace react-mvp-starter-ui storybook",
+    "test": "echo \"Add test runner here\" && exit 0"
+  }
+}
